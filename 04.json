@@ -1,0 +1,415 @@
+[
+  {
+    "canal": "ESPN AR",
+    "channel": "espn",
+    "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "d079ffa3757e8335611fc48be6ba47ff",
+      "key": "05059d1cb21b6708a55e9c26fb38e2f3"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd"
+  },
+  {
+    "canal": "ESPN 2 AR",
+    "channel": "espn2",
+    "logo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "e6eab53cf8ea962b999c59c298596a65",
+      "key": "10c103ae76f99620d66fa75f2c03302a"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd"
+  },
+  {
+    "canal": "ESPN 3 AR",
+    "channel": "espn3",
+    "logo": "https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "deeed0f44c6b45e064f4d5064486e821",
+      "key": "bf89ceeb93564ddc603ba6afd8c9266a"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd"
+  },
+  {
+    "canal": "ESPN 4 AR",
+    "channel": "espn4",
+    "logo": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "0CmB5vrqzvSckP2wU6tkHQ",
+      "key": "ZF4TYk6TOEGx6jXNobVb0Q"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd"
+  },
+  {
+    "canal": "ESPN 5 AR",
+    "channel": "espn5",
+    "logo": "https://i.imgur.com/eBYBgnn.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "cf626de3cadd9bfaf0b85c06aafd2cd0",
+      "key": "bc2aa7d9e6354e4979ee62b0ec5595c5"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd"
+  },
+  {
+    "canal": "ESPN 6 AR",
+    "channel": "espn6",
+    "logo": "https://i.imgur.com/dk8AYkV.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "fdac9b45f19959b848f498c8efe15d12",
+      "key": "c2a6e7acabc370ef792ffacc5e2610a9"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd"
+  },
+  {
+    "canal": "ESPN 7 AR",
+    "channel": "espn7",
+    "logo": "https://i.imgur.com/bWrggk0.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "fdac9b45f19959b848f498c8efe15d12",
+      "key": "c2a6e7acabc370ef792ffacc5e2610a9"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd"
+  },
+  {
+    "canal": "DSPORTS",
+    "channel": "dsports",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+    "grupo": "DEPORTES",
+    "userAgent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+    "referer": "https://www.primevideo.com/",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "f8b207c10f3f76aeba32a360ec52b9e4",
+      "key": "afad49d20eb39670e93e371c1d669921"
+    },
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd"
+  },
+  {
+    "canal": "DSPORTS ARG",
+    "channel": "dsports",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+    "grupo": "DEPORTES",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
+    "referer": "https://www.primevideo.com/",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "4f4c3a9912ea752e88f4497864a1bc8b",
+      "key": "278128004fe8c6ffb2cd2a0c154a241a"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd"
+  },
+  {
+    "canal": "DSPORTS 2 HD",
+    "channel": "dsports2",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+    "grupo": "DEPORTES",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
+    "referer": "https://www.primevideo.com/",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+      "key": "ea07b87acdf2e45be824cde4a1cf3504"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd"
+  },
+  {
+    "canal": "DSports +",
+    "channel": "dsports+",
+    "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+    "grupo": "DEPORTES",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
+    "referer": "https://www.primevideo.com/",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "83f81c4cc1443991543de4e22eea7586",
+      "key": "ddfd7ca653d6f35543d8edb3c688e20f"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd"
+  },
+  {
+    "canal": "SKY sports La Liga",
+    "channel": "skysportslaliga",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png",
+    "grupo": "Deportes",
+    "userAgent": "izzigo/11.5.1(18)_prd izzigo ahh (Linux;Android 16) AndroidXMedia3/1.0.2",
+    "referer": "https://www.izzigo.tv/webclient/",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "cb80e1e7d7598eaf98b1dbbe6dc14ee9",
+      "key": "103ae55c7948ca1d159d6743619d26c4"
+    },
+    "url": "https://live3-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd"
+  },
+  {
+    "canal": "CAZÉTV 🇧🇷",
+    "channel": "cazetv",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "34475edab991ad5e92548aebd710410a",
+      "key": "501b209cccd323ac00bf5ac15b406cb4"
+    },
+    "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd"
+  },
+  {
+    "canal": "CAZÉTV 🇧🇷",
+    "channel": "cazetv",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "0a29e3b7dc26ced80114da99266ea636",
+      "key": "9f1e4034545fed90b5ce7a8f8925e621"
+    },
+    "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd"
+  },
+  {
+    "canal": "SPORTV 1 🇧🇷",
+    "channel": "sportv1",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "51c0ef23b17297e5c01cd7f36dd0a6ce",
+      "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd"
+  },
+  {
+    "canal": "SPORTV 2 🇧🇷",
+    "channel": "sportv2",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "3de028eafb3b2caffec03be1c1c818b3",
+      "key": "8fbdd8a9ae6748696bb13e547bb093fc"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd"
+  },
+  {
+    "canal": "SPORTV 3 🇧🇷",
+    "channel": "sportv3",
+    "logo": "",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "902e5ec0e3d05e665daa32fc23f4f59e",
+      "key": "7b2322a273843921a43e2c61dac7cae3"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd"
+  },
+  {
+    "canal": "PREMIERE CLUBES 🇧🇷",
+    "channel": "premiere1",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "56b79c1782b30e6b6fc973b0e8fd4104",
+      "key": "fa38aaa865a57eda7c77444697ba8ed3"
+    },
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd"
+  },
+  {
+    "canal": "PREMIER 2 🇧🇷",
+    "channel": "premiere2",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "9dc40460c93087aea84d6315f08ecb64",
+      "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
+    },
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd"
+  },
+  {
+    "canal": "PREMIER 3 🇧🇷",
+    "channel": "premiere3",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "d23f7433798a652a7d4f6791d9e1036c",
+      "key": "4942eebd598b5727c5cc484cc62b52e8"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd"
+  },
+  {
+    "canal": "PREMIER 4 🇧🇷",
+    "channel": "premiere4",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "e23365c2ad97870c871712b73f0d6195",
+      "key": "58709c714320bb862dbd07270df81c94"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd"
+  },
+  {
+    "canal": "PREMIER 5 🇧🇷",
+    "channel": "premiere5",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "332f62eb3cae824e98a4124da29a7d31",
+      "key": "d1698cda3d040f9051125a61745b596b"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase"
+  },
+  {
+    "canal": "PREMIER 6 🇧🇷",
+    "channel": "premiere6",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "561baa89676c89c1d047e1852ba01c09",
+      "key": "a8c157826dfdf1299a329b77e2ab6a1a"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd"
+  },
+  {
+    "canal": "PREMIER 7 🇧🇷",
+    "channel": "premiere7",
+    "grupo": "Deportes Brasil",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "9ee352aac7ed8ee1cb42cfdf322b1cb0",
+      "key": "053d635fc90e175881bef26cd29f371e"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd"
+  },
+  {
+    "canal": "FOX Sports",
+    "channel": "fox1ar",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "37730b00a5f92084c47a8129e84559f3",
+      "key": "a2e20a45a057ff4e7c0bc2ad49e6f3e5"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd"
+  },
+  {
+    "canal": "FOX Sports 2",
+    "channel": "fox2ar",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "1b0ab680ef94a1842185fa78a830cbd7",
+      "key": "23129ab5572aeda7607c920655c0dbea"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd"
+  },
+  {
+    "canal": "FOX Sports 3",
+    "channel": "fox3ar",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "4629bd0ae30c0e72af111fb948fada1c",
+      "key": "7864154c679e769e7f164ba083c8fad3"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd"
+  },
+  {
+    "canal": "TNT Sports Premium FHD",
+    "channel": "tntar",
+    "logo": "https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png",
+    "grupo": "Fútbol Argentino",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "9fb56301bc7687baf0b1a61def9a007a",
+      "key": "947d2294ba67256827e8e97f267e71e0"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd"
+  },
+  {
+    "canal": "ESPN Premium FHD",
+    "channel": "espnpremium",
+    "logo": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",
+    "grupo": "Fútbol Argentino",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "c502892e037a9f34827147b2b24e42cf",
+      "key": "2531bd34bec6c0e8fa4e07aedb261ade"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd"
+  },
+  {
+    "canal": "TyC Sports FHD",
+    "channel": "tyc",
+    "logo": "https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/400/400/0/0/42832369072861.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "0b1e6825350fa1bc0032f8f36287e006",
+      "key": "11fc540a4539d18f91cd403a5ed42284"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMDU5MDcwIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmYmRmNGIyZmEzMzIyYmMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3YDZ09piy3uEcpNOFUHo0WYo9dW_3zFHOMwoyBn7-6kcfBsG6RKCarTKCSwIZFOAlgKs_ajGKbZjGK_zU47-Zg==/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd"
+  },
+  {
+    "canal": "TUDN MX",
+    "channel": "tudnmx",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+    "grupo": "DEPORTES",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
+    "referer": "https://www.primevideo.com/",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "763ce1ebcaf23502c8cf357c6ef423e1",
+      "key": "0c5e6c0820a1ea28753721db00272411"
+    },
+    "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd"
+  },
+  {
+    "canal": "CANAL 5 MX",
+    "channel": "canal5mx",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+    "grupo": "DEPORTES",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
+    "referer": "https://www.primevideo.com/",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "2764ddb50fbcdfa640e19874116dd529",
+      "key": "ab1e5cc276f81696e41131392290585d"
+    },
+    "url": "https://live1-ott.izzigo.tv/7/out/u/dash/CANAL-5-HD-H265/default.mpd"
+  }
+]
