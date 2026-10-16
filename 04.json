@@ -1,7 +1,7 @@
 [
   {
-    "canal": "ESPN AR",
-    "channel": "espn",
+    "canal": "ESPN",
+    "channel": "espnar",
     "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
     "grupo": "Deportes",
     "tipo": "clearkey",
@@ -13,6 +13,14 @@
     "origin": "https://portal.app.flow.com.ar",
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMjMwNjA2Iiwic2lwIjoiMTgxLjI4LjU4LjExMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9CcmF2b1RWL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiMzExNWQ3MzNhM2E0ZmYwZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.kVdsrWpLVfzQSRvPElG9hF4gxXXWUVGDORfPA8ue9miBpcF3YU8x1mS3xvB_RVL4oOjOCdG7iBAiuyWEemeFnw==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd"
   },
+  {
+  "canal": "ESPN",
+  "channel": "espn",
+  "logo": "https://i.postimg.cc/tu-logo/logo.png",
+  "grupo": "Entretenimiento",
+  "tipo": "m3u8",
+  "url": "http://209.61.12.132:9000/play/a06z/index.m3u8"
+},
   {
     "canal": "ESPN 2 AR",
     "channel": "espn2",
