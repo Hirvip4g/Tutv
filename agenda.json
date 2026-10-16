@@ -1099,7 +1099,7 @@
                     "name": "UEFA Europa League",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://ichef.bbci.co.uk/images/ic/480xn/p0m5wskq.jpg",
                     "events": [
                         {
                             "title": "Salzburg vs AC Milan",
@@ -1250,7 +1250,7 @@
                             "time": "2026-10-15T11:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 33,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/1d5wcx1787937528.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Lech Poznań",
                             "awayTeam": "Bayer Leverkusen",
